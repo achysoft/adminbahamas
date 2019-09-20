@@ -1,0 +1,14 @@
+[18-Sep-2019 07:44:48 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/amband/bahamasadmin.amband.co.ke/connection.php on line 16
+[18-Sep-2019 07:47:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'amband_bahamas'@'localhost' (using password: YES) in /home/amband/bahamasadmin.amband.co.ke/connection.php on line 16
+[18-Sep-2019 07:47:21 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'amband_bahamas'@'localhost' (using password: YES) in /home/amband/bahamasadmin.amband.co.ke/connection.php on line 16
+[18-Sep-2019 07:48:19 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[18-Sep-2019 08:04:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[18-Sep-2019 08:43:07 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[18-Sep-2019 09:20:26 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[18-Sep-2019 09:42:17 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[18-Sep-2019 09:54:53 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[19-Sep-2019 02:33:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[19-Sep-2019 05:13:59 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[19-Sep-2019 07:49:57 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[19-Sep-2019 09:24:01 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
+[20-Sep-2019 02:15:14 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/amband/bahamasadmin.amband.co.ke/login/login.php on line 42
